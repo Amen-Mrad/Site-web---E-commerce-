@@ -1,0 +1,10 @@
+body {
+    background-image: url("../../back.jpg");
+  }
+  #prod {
+    background-color: rgb(176, 212, 176);
+  }
+  h4 {
+    text-align: center;
+    color: green;
+  }
